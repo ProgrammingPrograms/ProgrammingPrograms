@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">i'm from the USA 🎇, currently the Eastern Standard Time Zone 🌎, im pretty into Android SDK , Kotlin, and building maintainable software 💻, when im not building software or squashing bugs. im showing love 💖</h2>
+<h2 align="left">Building maintainable Software 💻, I'm from NYC🆕, what do you call someone who easts fruits?    <br>         HEALTHY.  Ramadan Mubarak, <br>check out my work</h2>
 
 ###
 
