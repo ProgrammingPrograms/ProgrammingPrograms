@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">Building maintainable Software 💻, I'm from NYC🆕, what do you call someone who easts fruits?    <br>         HEALTHY.  Ramadan Mubarak, <br>check out my work</h2>
+<h2 align="left">Building maintainable Software 💻, I'm from NYC🆕, what do you call someone who easts fruits?    <br>         HEALTHY, <br>check out my work</h2>
 
 ###
 
