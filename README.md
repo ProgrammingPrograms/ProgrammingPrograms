@@ -13,7 +13,7 @@
 </div>
 <br clear="both">
 
-<h2 align="left">software thats meant to last - clean, scalable, and made with real people in mind <br>Based in NYC 🗽</h2>
+<h2 align="left">Building software thats meant to last - clean, scalable, and made with real people in mind <br>Based in NYC 🗽</h2>
 
 ###
 
