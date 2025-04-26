@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">🟦Muhammad Kone here</h2> Solving Real World Problems
+<h2 align="left">🟦Muhammad Kone here</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 </div>
 <br clear="both">
 
-<h2 align="left">Building software thats meant to last - clean, scalable, and made with real people in mind <br>Based in NYC 🗽</h2>
+<h2 align="left">Building software that solves real-world problems—designed to be clean, easy, and genuinely useful to the people who rely on it. <br>Based in NYC 🗽</h2>
 
 ###
 
