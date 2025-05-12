@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h2 align="left">African American Building software that solves real-world problems—designed to be clean, easy, and genuinely useful to the people who rely on it.</h2>
+<h2 align="left">Building software that solves real-world problems—designed to be clean, easy, and genuinely useful to the people who rely on it.</h2>
 
 ###
 
